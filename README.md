@@ -1,0 +1,2 @@
+# FoudationModelTest_RS
+AppleのFoundationModelを使ったテストアプリです。
