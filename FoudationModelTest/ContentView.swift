@@ -14,6 +14,9 @@ struct ContentView: View {
                 NavigationLink("チャットアプリ") {
                     ChatView()
                 }
+                NavigationLink("モチベーションアプリ") {
+                    MotivationView()
+                }
             }
         }
     }

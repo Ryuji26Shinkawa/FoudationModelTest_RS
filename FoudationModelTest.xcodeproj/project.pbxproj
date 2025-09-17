@@ -12,6 +12,8 @@
 		37455BC22E7A19910060BC01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37455BBD2E7A19910060BC01 /* ContentView.swift */; };
 		37455BC32E7A19910060BC01 /* FoudationModelTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37455BBE2E7A19910060BC01 /* FoudationModelTestApp.swift */; };
 		37455BC72E7A1BA40060BC01 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 37455BC62E7A1BA40060BC01 /* README.md */; };
+		3762BD9F2E7AC5A1004685B1 /* MotivationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3762BD9E2E7AC5A1004685B1 /* MotivationView.swift */; };
+		3762BDA12E7AC5B3004685B1 /* MotivationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3762BDA02E7AC5B3004685B1 /* MotivationModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		37455BBD2E7A19910060BC01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		37455BBE2E7A19910060BC01 /* FoudationModelTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoudationModelTestApp.swift; sourceTree = "<group>"; };
 		37455BC62E7A1BA40060BC01 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3762BD9E2E7AC5A1004685B1 /* MotivationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotivationView.swift; sourceTree = "<group>"; };
+		3762BDA02E7AC5B3004685B1 /* MotivationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotivationModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				37455BBB2E7A19910060BC01 /* Assets.xcassets */,
 				37455BBD2E7A19910060BC01 /* ContentView.swift */,
 				37455BBC2E7A19910060BC01 /* ChatView.swift */,
+				3762BD9E2E7AC5A1004685B1 /* MotivationView.swift */,
+				3762BDA02E7AC5B3004685B1 /* MotivationModel.swift */,
 				37455BBE2E7A19910060BC01 /* FoudationModelTestApp.swift */,
 			);
 			path = FoudationModelTest;
@@ -135,8 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3762BD9F2E7AC5A1004685B1 /* MotivationView.swift in Sources */,
 				37455BC12E7A19910060BC01 /* ChatView.swift in Sources */,
 				37455BC22E7A19910060BC01 /* ContentView.swift in Sources */,
+				3762BDA12E7AC5B3004685B1 /* MotivationModel.swift in Sources */,
 				37455BC32E7A19910060BC01 /* FoudationModelTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
