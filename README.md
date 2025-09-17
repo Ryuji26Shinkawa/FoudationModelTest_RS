@@ -2,7 +2,7 @@
 
 このプロジェクトは Apple の Foundation Model を試すアプリです。
 
-> 注意: プロジェクト名および本文中の "Foudation" は元のプロジェクト名に合わせています。必要に応じて "Foundation" に修正してください。
+> 注意: プロジェクト名の "Foudation" の綴りは間違っています。タイミングがあれば "Foundation" に修正します。
 
 ---
 
@@ -12,16 +12,18 @@
 - 主な技術スタック:
   - Swift / SwiftUI
   - Foundation Models（オンデバイス LLM など）
-  - 必要に応じて StoreKit, AppIntents, etc.
+  - 必要に応じて MapKit, etc.
 
 ## 学習目標
 - [x] Foundation Model の基本的な使い方を理解する (9/17完了)
-- [] #PlayGroundマクロの利用方法を理解する
-- [] Guided Generationを利用して、LLMの回答の形を決める
-- [] 回答のストリーミング配信をさせてみる
-- [] Tool Callingを利用して、別のフレームワークと連携してみる
+- [ ] #PlayGroundマクロの利用方法を理解する
+- [ ] Guided Generationを利用して、LLMの回答の形を決める
+- [ ] 回答のストリーミング配信をさせてみる
+- [ ] Tool Callingを利用して、別のフレームワークと連携してみる
 
-## 実装メモ（テンプレート）
+---
+
+## 実装メモ
 
 ### [9/17] チャットアプリ
 - 背景 / 目的:
